@@ -4,7 +4,7 @@
 ![Book Recommender Web App](https://github.com/ChayanBhansali/BookRecommender/blob/main/snapshot.gif)
 
 ## Overview
-This repository contains code for a book recommender web app built using Streamlit. The app uses a machine learning model trained on a dataset available on Kaggle to recommend books based on user preferences.
+This repository contains code for a book recommender model building and it's web app built using Streamlit. The app uses a machine learning model trained on a dataset available on Kaggle to recommend books based on user preferences.
 
 ## Prerequisites
 
