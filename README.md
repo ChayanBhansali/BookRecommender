@@ -1,5 +1,5 @@
 
-# Book Recommender Web App using Streamlit
+# Book Recommender Model and Web App
 
 ![Book Recommender Web App](https://github.com/ChayanBhansali/BookRecommender/blob/main/snapshot.gif)
 
